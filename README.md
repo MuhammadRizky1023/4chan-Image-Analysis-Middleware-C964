@@ -1,10 +1,7 @@
 <h1>NSFW Image Analysis Middleware</h1>
 
 
- ### [Live Project](https://c964imagemirrors.z5.web.core.windows.net/)
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
-<h2>
  
 ```diff
 - WARNING (NSFW): RANDOM live images will be pulled from NSFW location.
@@ -23,8 +20,8 @@ Project consists of a single-page application (SPA) which grabs a random image f
 <h2>Languages Used</h2>
 
 - <b>Python Django (backend):</b> scikit-learn ML model 
-- <b>[Node.JS (backend):](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</b> control data flow between all components
-- <b>[React (frontend):](https://github.com/joshmadakor1/C964-WGU-BSCS-Capstone-React)</b> single page application (SPA)
+- <b>[Node.JS (backend):](https://github.com/jMuhammadRizky102/4chan-Image-Analysis-Middleware-C964)</b> control data flow between all components
+- <b>[React (frontend):](https://github.com/MuhammadRizky102/Capstone-React)</b> single page application (SPA)
 
 <h2>Environments Used (PaaS Components)</h2>
 
